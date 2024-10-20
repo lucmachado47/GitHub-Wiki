@@ -16,7 +16,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone this repository.
 2. Install all dependencies using `npm install`.
 3. Run the application with `npm start` and open [http://localhost:3000](http://localhost:3000) to view it in your browser (if it doesn’t open automatically).
-4. Start exploring GitHub repositories!
+4. Start exploring GitHub repositories! You can add more than one repository to the list!
 
 ## Prerequisites
 
